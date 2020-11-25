@@ -1,0 +1,17 @@
+https://sguard1.ntops.go.kr:8443/Login.jsp
+
+###
+
+샤크라MAX 설치방법]
+1) https://1db.nirs.go.kr 으로 접속하여 (chakramaxclientsetup)을 실행
+2) 사용권 계약 화면에서 동의함 클릭
+3) 설치 폴더 경로를 지정하는 화면, 다음 버튼 클릭
+4) DAR Mode 선택 후, 설치 버튼을 클릭
+5) 설치 완료 후, 재부팅 메시지가 출력되며 반드시 재부팅
+[초기패스워드 : chakra123!@#]
+[https://1db.nirs.go.kr의 사용자운영매뉴얼및 문제해결가이드 참조]
+
+
+https://sguard1.ntops.go.kr:8443/Login.jsp
+id : sangs0318
+pw : sangs#1234
